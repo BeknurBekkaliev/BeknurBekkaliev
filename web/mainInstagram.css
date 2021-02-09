@@ -1,0 +1,133 @@
+body{
+	font-family: sans-serif;
+	background: white;
+}
+#img1{
+	position: relative;
+	top: -350px;
+	left: 400px;
+}
+#img2{
+	position: relative;
+	top: -750px;
+	left: 500px;
+}
+#img3{
+	position: relative;
+	top: -764px;
+	left: 870px;
+}
+#img4{
+	position: relative;
+	top: -770px;
+	left: 820px;
+}
+#img5{
+	position: relative;
+	top: -770px;
+	left: 830px;
+}
+#block1{
+	position: relative;
+	top: 150px;
+	left: 210px;
+	border-radius: 5px;
+	border-color: gray;
+	border-style: solid;
+	background: white;
+}
+#block2{
+	position: relative;
+	top: 170px;
+	left: 210px;
+	border-radius: 5px;
+	border-color: gray;
+	border-style: solid;
+	background: white;
+}
+#username{
+	position: relative;
+	top: -750px;
+	left: 810px;
+    width: 250px;
+    height: 8px;
+    padding: 20px;
+    border: 1px solid #dddfe2;
+    border-radius: 5px;
+}
+#password{
+	position: relative;
+	top: -755px;
+	left: 810px;
+    width: 250px;
+    height: 8px;
+    padding: 20px;
+    border: 1px solid #dddfe2;
+    border-radius: 5px;
+}
+#loginbutton{
+	position: relative;
+	top: -760px;
+	left: 810px;
+    width: 295px;
+    padding: 5px;
+    border: 1px;
+    border-radius: 5px;
+    color: white;
+    background: #87cefa;
+    font-weight: bold;
+    font-size: 17px;
+}
+#text1{
+	position: relative;
+	top: -762px;
+	left: 942px;
+	font-size: 15px;
+	color: gray;
+}
+#linia1{
+	position: relative;
+	top: -785px;
+	left: 830px;
+}
+#linia2{
+	position: relative;
+	top: -787px;
+	left: 985px;
+}
+#text2{
+	position: relative;
+	top: -800px;
+	left: 900px;
+	font-size: 15px;
+	color: #385185;
+	font-weight: bold;
+}
+#text4{
+	position: relative;
+	top: -770px;
+	left: 880px;
+	font-size: 15px;
+	color: black;
+}
+#forgotbutton{
+	position: relative;
+	top: -800px;
+	left: 910px;
+	font-size: 12px;
+	color: #385185;
+}
+#text3{
+	position: relative;
+	top: -755px;
+	left: 800px;
+	font-size: 15px;
+	color: black;
+}
+#registration{
+	position: relative;
+	top: -789px;
+	left: 980px;
+	font-size: 15px;
+	color: #0095f6;
+}
